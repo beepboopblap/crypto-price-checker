@@ -53,7 +53,7 @@ print("\n")
 print("Prices of Crypto in Real Time (USD)\n", "\n")
 
 print(f"Bitcoin: ${bitcoin}")
-print(f"Etherium: ${ether}")
+print(f"Ethereum: ${ether}")
 print(f"Tether: ${tether}")
 print(f"BinanceCoin: ${binancec}")
 print(f"Solana: ${solana}")
